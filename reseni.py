@@ -32,3 +32,8 @@ cisla = [2, 4, 6, 8]
 cisla_na_druhou = [4, 16, 36, 64]
 vysledny_seznam = cisla + cisla_na_druhou
 print(vysledny_seznam)
+
+#body
+body = 5 + 8 + 8.5 + 3
+print(f"počet bodů: {body}")
+print("Známka: 1")
